@@ -1,4 +1,10 @@
 # GPS-Toll-based-System-Simulation-using-Python
+
+Welcome to my GPS Toll-Based System Simulation project! This repository contains a simulation of a toll collection system that utilizes user input (as an alternative to GPS data) to dynamically calculate and collect tolls from vehicles based on their routes and distance travelled.
+
+This project aims to demonstrate how GPS technology can be integrated with toll systems to create efficient and automated toll collection mechanisms. I have used Python3.12, HTML5, CSS, JavaScript and PHP to develop this project.
+
+
 Steps to run the application:
 
 1.Save all the files in a single folder.
